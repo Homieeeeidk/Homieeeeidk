@@ -3,7 +3,6 @@
 
 - 👨‍💻 All of my projects are available at [https://homayounelyasi.com/](https://homayounelyasi.com/)
 
-- 📫 How to reach me **homayoun.elyasi@mail.utoronto.ca**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
