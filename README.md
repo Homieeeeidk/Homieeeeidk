@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Homayoun</h1>
 <h3 align="center">I'm a student at the University of Toronto.</h3>
 
-- 👨‍💻 All of my projects are available at [https://homayounelyasi.com/](https://homayounelyasi.com/)
+- 👨‍💻 Some of my projects are available at [https://homayounelyasi.com/](https://homayounelyasi.com/)
 
 
 <h3 align="left">Connect with me:</h3>
